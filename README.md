@@ -1,2 +1,4 @@
 # AI-enabled-semantic-search-for-National-Classification-of-Occupation-NCO-
 The National Classification of Occupation (NCO) is a standardized system for classifying occupations in India, aligned with the International Standard Classification of Occupations (ISCO). The current version, NCO-2015, includes detailed descriptions of 3,600 civilian occupations across 52 sectors, structured through an 8-digit hierarchical code.
+
+this project under development
